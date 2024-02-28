@@ -15,4 +15,4 @@ Model Evaluation: The performance of the developed models is evaluated using app
 
 Deployment and Integration: Once the model achieves satisfactory performance, it can be deployed into a real-world environment where it continuously monitors incoming data streams and provides real-time predictions or alerts to drivers, traffic management systems, or relevant authorities.
 
-Overall, the project aims to leverage machine learning techniques to enhance driver safety by predicting potential hazards and providing proactive measures to prevent accidents or mitigate their severity. By analyzing various factors influencing driver safety, the project contributes to improving road safety standards and reducing the occurrence of road accidents.
+The project aims to leverage machine learning techniques to enhance driver safety by predicting potential hazards and providing proactive measures to prevent accidents or mitigate their severity. By analyzing various factors influencing driver safety, the project contributes to improving road safety standards and reducing the occurrence of road accidents.
